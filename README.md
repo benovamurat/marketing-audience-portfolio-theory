@@ -1,4 +1,4 @@
-# Marketing Audience Portfolio Theory
+# Marketing Audience Portfolio Theory: Theoritical Study
 Transformation of Marketing Audiences into Synthetic Investable Assets with Ova-Ünal Model and Black-Litterman Portfolio Allocation Approach
 
 References:<br>
