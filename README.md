@@ -2,10 +2,12 @@
 Transformation of Marketing Audiences into Synthetic Investable Assets with Ova-Ünal Model and Black-Litterman Portfolio Allocation Approach
 <br><br>
 Sub assumptions:
-<br><br>
-- Price effects on ROI is normalized.
-- Product diversification is heterogeneously distributed.
-- ROI of audience combinations must be measurable.
+<br>
+<ul>
+<li>Price effects on ROI is normalized.</li>
+<li>Product diversification is heterogeneously distributed.</li>
+<li>ROI of audience combinations must be measurable.</li>
+</ul>
 <br><br>
 References:<br>
 <a href="https://en.wikipedia.org/wiki/Modern_portfolio_theory">https://en.wikipedia.org/wiki/Modern_Portfolio_Theory</a><br>
